@@ -1,17 +1,14 @@
 {
   "name": "facecrop",
   "version": "1.0.0",
-  "description": "",
+  "description": "Face recognition-based video cropper.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "bin": {
     "facecrop": "index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["tensorflow", "face recognition", "ai", "ffmpeg", "video", "crop"],
+  "author": "mogery",
+  "license": "GPL-3.0",
   "dependencies": {
     "@tensorflow/tfjs": "1.7.0",
     "@tensorflow/tfjs-node": "1.7.0",
