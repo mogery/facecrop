@@ -1,0 +1,24 @@
+{
+  "name": "facecrop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "facecrop": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "1.7.0",
+    "@tensorflow/tfjs-node": "1.7.0",
+    "@tensorflow/tfjs-node-gpu": "1.7.0",
+    "command-line-args": "^5.2.0",
+    "command-line-usage": "^6.1.1",
+    "face-api.js": "^0.22.2",
+    "ffmpeg-stream": "^0.7.0"
+  }
+}
