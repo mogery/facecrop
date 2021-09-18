@@ -1,6 +1,9 @@
 # facecrop
 Face recognition-based video cropper. Will crop landscape video into portrait video based on face tracking.
 
+## Demo on YouTube
+[<img src="https://img.youtube.com/vi/L86kAF-R9Tg/0.jpg" width=200>](https://www.youtube.com/watch?v=L86kAF-R9Tg)
+
 ## Setup
 Basic setup should just be `npm i -g mogery/facecrop`.
 
